@@ -39,3 +39,7 @@ h2, h3, h4 {
   margin: 10px;
   display: block;
 }
+footer {
+  text-align: left;
+  padding-left: 20px;
+}
