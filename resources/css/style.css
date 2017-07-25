@@ -44,7 +44,7 @@ h2, h3, h4 {
   background-image: url(../resources/images/img-mission-background-.jpg);
 }
 #locations {
-  background-image: url(../resources/images/img-locations-background.jpg);
+  background-image: url(../resources/images/img-locations-background.jpg) center no-repeat;
 }
 footer {
   text-align: left;
