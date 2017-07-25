@@ -22,9 +22,9 @@
     <h4>What's Steeping at The Tea Cozy?</h4>
     <img src="./resources/images/img-berryblitz.jpg" />
     <span><p>Fall Berry Blitz Tea</p></span>
-    <img src="img-spiced-rum.jpg" />
+    <img src="./resources/images/img-spiced-rum.jpg" />
     <span><p>Spiced Rum Tea</p></span>
-    <img src="./resources/images/donut.jpg" />
+    <img src="./resources/images/img-donut.jpg" />
     <span><p>Seasonal Donuts</p></span>
     <img src="./resources/images/img-myrtle-ave.jpg" />
     <span><p>Myrtle Ave Tea</p></span>
