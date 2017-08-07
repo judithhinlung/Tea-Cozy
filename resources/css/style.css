@@ -6,6 +6,7 @@ body {
   font-size: 22px;
   text-align: center;
 }
+/* Header section */
 
 header img {
   height: 50px;
@@ -21,7 +22,7 @@ nav {
   flex-grow: 1;
 }
 
-
+/* Main section */
 a {
   color: seashell;
 }
@@ -40,12 +41,15 @@ h2, h3, h4 {
   margin: 10px;
   display: block;
 }
+
+/* Mission section */
 #mission {
   background-image: url(../resources/images/img-mission-background-.jpg);
 }
 #locations {
   background-image: url(../resources/images/img-locations-background.jpg) center no-repeat;
 }
+/* Footer */
 footer {
   text-align: left;
   padding-left: 20px;
